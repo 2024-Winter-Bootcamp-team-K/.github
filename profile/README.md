@@ -125,7 +125,7 @@
 <br>
 
 # 📗 API
-<img width="1503" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/API.png" alt="API 이미지">
+<img width="1503" src="https://github.com/user-attachments/assets/bf878657-839e-4c39-9e44-7aa49bfe750e" alt="API 이미지">
 
 
 
@@ -133,13 +133,13 @@
 
 # 🛠 ️System Architecture <a name="-system-architecture"></a>
 <div align="center">
-  <img align="center" width="1000" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/System.png">
+  <img align="center" width="1000" src="https://github.com/user-attachments/assets/f4ef9980-faf7-4c55-9d48-fd0d3c1901de">
 </div>
 <br><br>
 
 # 🔑 ERD
 <div align="center">
-  <img width="1000" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/erd.png">
+  <img width="1000" src="https://github.com/user-attachments/assets/202ea22b-0dca-4d18-b7e4-b53515745f75">
 </div>
 <br><br>
 
@@ -227,7 +227,7 @@
 </div>
 <br><br>
 
-# 📊Monitoring
+# 📊 Monitoring
 <div align="center">
   <h3 align="left">Prometheus & Grafana</h3>
   <table>
@@ -278,7 +278,7 @@
   <br>
 </div>
 
-# 🔧Logging
+# 🔧 Logging
 <div align="center">
   <h3 align="left">Loki</h3>
   <table>
@@ -293,7 +293,7 @@
 </div>
 <br>
 
-# 📂Directory Structure
+# 📂 Directory Structure
 
 <details>
   <summary>AILIBI-Backend</summary>
@@ -491,7 +491,7 @@
 </details>
 <br>
 
-# 🧐How To Start
+# 🧐 How To Start
 
 ### Backend 
 ```
@@ -538,7 +538,7 @@ npm run dev
 ```
 <br>
 
-# 👨‍👩‍👧‍👦Team Members
+# 👨‍👩‍👧‍👦 Team Members
 <table width="1000">
 <thead>
 </thead>
