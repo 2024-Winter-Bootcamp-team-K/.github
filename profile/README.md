@@ -52,7 +52,7 @@
 
 ### Login/Register & Main Page
 > 이메일 기반 로그인 및 회원가입으로 손쉽게 로그인하실 수 있습니다.<br>
-> 게임 플레이를 위한 메인 페이지입니다.
+> 성공적인 로그인 이후 게임 플레이를 위한 메인 페이지로 이동합니다.
 <br>
 <img align="center" width="1000" alt="Login & Sign up" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/mainPage.png">
 
@@ -75,40 +75,39 @@
 <br>
 
 ### Loading & Innit Chat Page
-> 게임이 로드되는 동안 플레이어가 즐길 수 있는 간단한 미니게임이 포함된 페이지입니다.<br>
-> AI가 생성한 용의자의 초기 진술을 포함한 정보를 나타내줍니다.
+> 플레이어가 설정한 내용을 토대로 AI가 시나리오, 용의자, 단서를 생성을 기다리는 페이지입니다.<br>
+> 로딩이 끝난 이후에는 AI가 생성한 용의자의 초기 진술을 포함한 기본 정보를 보여줍니다.
 <br>
 <img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/loading.png">
 <img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/minigame.png">
 <br>
 
 ### MiniGame Page
-> 플레이어가 사건을 해결하며 진행하는 메인 게임 화면입니다.<br>
-> 증거를 조하고, 용의자를 심문하며 사건의 진실을 추적합니다.
+> 게임이 로드되는 동안 플레이어가 즐길 수 있는 간단한 미니게임이 포함된 페이지입니다.
 <br>
 <img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/play.png">
 
 <br>
   
 ### Play & Evidence & Suspect Page
-> 주요 용의자들의 프로필, 알리바이, 행동 기록 등을 확인할 수 있는 페이지입니다.<br>
-> 발견된 증거를 정리하고 분석하여 사건 해결에 활용합니다.
+> 플레이어가 사건을 해결하며 진행하는 메인 게임 화면입니다.<br>
+> 증거를 정리하고, 주요 용의자들의 프로필, 알리바이, 행동 기록 등을 확인할 수 있는 페이지입니다.
 <br>
 <img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/">
 
 <br>
 
 ### Chat Page
-> AI 기반으로 용의자와 실시간으로 대화하며 단서를 수집하는 페이지입니다.<br>
-> TTS로 생성된 꿀보이스로 자유로운 대화가 가능합니다.
+> AI 기반으로 용의자를 실시간으로 심문하며 단서를 수집하는 페이지입니다.<br>
+> TTS 및 STT로 자유로운 대화가 가능합니다.
 <br>
 <img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/">
 
 <br>
 
 ### Choose & Result Page
-> 플레이어가 정리한 사건의 단서, 용의자 관계도, 메모 등을 빠르게 볼 수 있는 팝업입니다.<br>
->추리를 위한 모든 정보를 한눈에 확인할 수 있습니다.
+> 지금까지의 추리를 토대로 범인으로 생각되는 용의자를 지목합니다.<br>
+> 결과에 따라 다른 문장을 말해줍니다.
 <br>
 <img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/">
 
@@ -116,7 +115,7 @@
 
 ### Ending Page
 > 사건이 해결된 이후의 페이지로, 사건의 전개와 해결 과정을 요약합니다.<br>
-> 플레이어의 선택에 따라 달라지는 결과 페이지와 크레딧 화면을 볼 수 있습니다
+> 플레이어의 선택에 따라 달라지는 결과 페이지와 크레딧 화면을 볼 수 있습니다.
 <br>
 <img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/">
 
