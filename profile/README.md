@@ -1,4 +1,68 @@
+# 📊Monitoring
+<div align="center">
+  <h3 align="left">Prometheus & Grafana</h3>
+  <table>
+        <tr>
+            <th colspan="2">Django</th>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/user-attachments/assets/07339efc-48c9-4b9d-b6a1-ea19910eb1db" alt="Django"></td>
+            <td><img src="https://github.com/user-attachments/assets/e4099e6f-7463-4b95-af36-f1690b917073" alt="Django2"></td>
+        </tr>
+        <tr>
+            <th colspan="2">Celery</th>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/user-attachments/assets/074048e6-4ece-43f9-9800-2f2d523f2930" alt="Celery"></td>
+            <td><img src="https://github.com/user-attachments/assets/8d67960d-b60e-4a37-9597-7eabeed8c6fb" alt="Celery2"></td>
+        </tr>
+        <tr>
+            <th colspan="2">cAdvisor</th>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/user-attachments/assets/5c995407-38a8-4949-8807-c6678e15adea" alt="cAdvisor"></td>
+            <td><img src="https://github.com/user-attachments/assets/8ec92d68-418e-4d97-a288-88bf7b0e4bac" alt="cAdvisor2"></td>
+        </tr>
+        <tr>
+            <th colspan="2">Node_Exporter</th>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/user-attachments/assets/ecd13865-d1f4-4f34-af30-2d91b081b7b8"></td>
+            <td><img src="https://github.com/user-attachments/assets/cff8c04a-700c-45ad-ad84-017d343d2e3d" alt="Node Exporter2"></td>
+        </tr>
+        <tr>
+            <th colspan="2">RabbitMQ</th>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/user-attachments/assets/e41beaed-0e21-4f7d-82b0-e86a8a6b9f37"></td>
+            <td><img src="https://github.com/user-attachments/assets/1dd07d64-3548-476f-a68a-7b5e613b49cc" alt="Node Exporter2"></td>
+        </tr>
+        <tr>
+          <th>Nginx_Exporter</th>
+          <th>Redis</th>
+        </tr>
+        <tr>
+          <td><img src="https://github.com/user-attachments/assets/ef00a11f-e77a-40a2-ad32-b19d67b65e2a"></td>
+          <td><img src="https://github.com/user-attachments/assets/67a6e2fb-fa01-4172-9a86-a0b17a847379"></td>
+        </tr>
+    </table>
+  <br>
+</div>
 
+# 🔧Logging
+<div align="center">
+  <h2 align="left">Loki</h2>
+  <table>
+        <tr>
+            <th colspan="2">Nginx</th>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/user-attachments/assets/fa352ece-f6f7-4862-ba17-22ed53a2378b" alt="Django"></td>
+            <td><img src="https://github.com/user-attachments/assets/e9749025-fd86-4203-aee0-30713e96ad5f" alt="Django2"></td>
+        </tr>
+    </table>
+</div>
+<br>
 
 # 📂Directory Structure
 
@@ -205,7 +269,7 @@
 git clone --recursive https://github.com/2024-Winter-Bootcamp-team-K/AILIBI-Backend.git
 ```
 ### env setting in the Backend folder
-* backend/.env
+* Backend/.env
 ```
 DB_ENGINE=
 DB_NAME=
