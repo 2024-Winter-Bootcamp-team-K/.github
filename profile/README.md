@@ -27,7 +27,7 @@
 
 # 📣 Introduction
 ### URL
-> 🗝️ [AILIBI](https://AILIBI.click) 
+> 🗝️ [AILIBI](https://AILIBI.link) 
 
 ### Medium
 > 🔎 [AILIBI Medium](https://medium.com) &nbsp;
@@ -37,9 +37,9 @@
 - **AI + ALIBl(형사 사건이 발생한 시간에 용의자가 그 범죄 현장에 있지 않았다는 증명)=AILIBI**
 - **AI 기반 탐정 시뮬레이션**
 - **1인용 두뇌게임**
-- **사용자가 사건 종류,장소,시간을 입력하면 AI(GPT-4)가 시나리오,용의자,증거를 생성한다**
-- **사용자는 시나리오의 탐정이 되어 용의자를 심문하고 증거를 탐색한다**
-- **진범은 찾아내면 승리한다**
+- **사용자가 사건 종류,장소,시간을 입력하면 AI(GPT-4)가 시나리오,용의자,증거를 생성**
+- **사용자는 시나리오의 탐정이 되어 용의자를 심문하고 증거를 탐색**
+- **진범은 찾아내면 승리**
 
 <br>
 
@@ -277,6 +277,21 @@
     </table>
   <br>
 </div>
+<br>
+  
+  <h3 align="left">Cloud Flare</h3>
+<table>
+  <tr>
+      <th colspan="2">Frontend</th>
+  </tr>
+  <tr>
+      <td><img src="https://github.com/user-attachments/assets/77b5c76c-1567-4e63-b5db-4335749167cb"></td>
+      <td><img src="https://github.com/user-attachments/assets/e9429a44-14d5-4711-9124-0a9a83c5abc9" alt="Node Exporter2"></td>
+  </tr>
+</table>
+
+<br>
+
 
 # 🔧 Logging
 <div align="center">
