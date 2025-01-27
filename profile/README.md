@@ -51,7 +51,7 @@
 
 # 🔧Logging
 <div align="center">
-  <h2 align="left">Loki</h2>
+  <h1 align="left">Loki</h1>
   <table>
         <tr>
             <th colspan="2">Nginx</th>
