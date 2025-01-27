@@ -1,3 +1,232 @@
+<h4 align="center">📜 2024 Techeer Winter BootCamp K team 📜</h1>
+<h1 align="center">🕵️ AILIBI 🕵️</h1>
+<div align="center"> 
+<h3><b> AI-based detective simulation game </b></h3><br>
+<img width="1503" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/main.png" alt="대표 이미지">
+<h3><b>AI+ALIBI(현재 부재 증명)= AILIBI</b></h3>
+
+<br>
+
+</div>
+<br><br>
+
+
+# 📖 Table of contents
+* [Introduction](#-introduction)
+* [Demo](#-demo)
+* [API](#-api)
+* [System Architecture](#-system-architecture)
+* [ERD](#-erd)
+* [Tech Stack](#-tech-stack)
+* [Monitoring](#-monitoring)
+* [Directory Structure](#-directory-structure)
+* [How to start](#-how-to-start)
+* [Team Members](#-team-members)
+
+<br>
+
+# 📣 Introduction
+### URL
+> 🗝️ [AILIBI](https://AILIBI.click) 
+
+### Medium
+> 🔎 [AILIBI Medium](https://medium.com) &nbsp;
+
+<br>
+
+- **AI+ALIBl(현재부재증명)=AILIBI**
+- **AI 기반 탐정 시뮬레이션**
+- **1인용 두뇌게임**
+- **사용자가 사건 종류,장소,시간을 입력하면 AI(GPT-4)가 시나리오,용의자,증거를 생성한다**
+- **사용자는 시나리오의 탐정이 되어 용의자를 심문하고 증거를 탐색한다**
+- **진범은 찾아내면 승리한다**
+
+<br>
+
+# 🕺🏻 Demo
+### 로그인 페이지 및 시작 페이지
+> AILIBI 게임에 대한 간략한 설명을 담고 있습니다.
+<img align="center" width="1000" alt="Onboarding" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/main.png">
+<img align="center" width="1000" alt="Onboarding" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/login.png">
+
+
+### 메인 페이지
+> 현재까지 진행했던 히스토리 페이지 및 새로운 시나리오를 생성하는 시나리오 페이지로 이동이 가능합니다
+<br>
+<img align="center" width="1000" alt="Login & Sign up" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/mainPage.png">
+
+<br>
+
+### 시나리오 생성 페이지
+> 플레이어가 탐정 스토리의 주요 배경과 사건을 설정하는 페이지입니다..<br>
+> 사건의 종류,시간,장소 등을 선택할 수 있습니다.
+<br>
+<img align="center" width="1000" alt="Login & Sign up" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/make.png">
+
+<br>
+
+### 히스토리 페이지
+> 플레이어가 이전에 해결했던 사건들을 확인할 수 있는 기록 페이지입니다.<br>
+> 사건별 결과와 세부 정보를 조회할 수 있습니다.
+<br>
+<img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/history.png">
+
+<br>
+
+### 로딩 페이지 및 미니게임
+> 게임이 로드되는 동안 플레이어가 즐길 수 있는 간단한 미니게임이 포함된 페이지입니다.<br>
+> 대기 시간을 줄이고 몰입감을 높이는 역할을 합니다.
+<br>
+<img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/loading.png">
+<img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/minigame.png">
+<br>
+
+### 플레이 페이지
+> 플레이어가 사건을 해결하며 진행하는 메인 게임 화면입니다.<br>
+> 증거를 조하고, 용의자를 심문하며 사건의 진실을 추적합니다.
+<br>
+<img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/play.png">
+
+<br>
+  
+### 용의자 및 증거 페이지
+> 주요 용의자들의 프로필, 알리바이, 행동 기록 등을 확인할 수 있는 페이지입니다.<br>
+> 발견된 증거를 정리하고 분석하여 사건 해결에 활용합니다.
+<br>
+<img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/">
+
+<br>
+
+### 용의자 채팅 페이지
+> AI 기반으로 용의자와 실시간으로 대화하며 단서를 수집하는 페이지입니다.<br>
+> TTS로 생성된 꿀보이스로 자유로운 대화가 가능합니다.
+<br>
+<img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/">
+
+<br>
+
+### 추리 노트 팝업
+> 플레이어가 정리한 사건의 단서, 용의자 관계도, 메모 등을 빠르게 볼 수 있는 팝업입니다.<br>
+>추리를 위한 모든 정보를 한눈에 확인할 수 있습니다.
+<br>
+<img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/">
+
+<br>
+
+### 결과 페이지
+> 사건이 해결된 이후의 페이지로, 사건의 전개와 해결 과정을 요약합니다.<br>
+> 플레이어의 선택에 따라 달라지는 결과 페이지와 크레딧 화면을 볼 수 있습니다
+<br>
+<img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/">
+
+
+
+
+<br>
+
+# 📗 API
+<img width="1503" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/API.png" alt="API 이미지">
+
+
+
+<br><br>
+
+# 🛠 ️System Architecture <a name="-system-architecture"></a>
+<div align="center">
+  <img align="center" width="1000" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/System.png">
+</div>
+<br><br>
+
+# 🔑 ERD
+<div align="center">
+  <img width="1000" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/erd.png">
+</div>
+<br><br>
+
+# 💻 Tech Stack
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Field</th>
+      <th>Technology of Use</th>
+    </tr>
+    <tr>
+      <td><b>Frontend</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+        <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+        <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white">
+        <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+        <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
+      </td>
+    </tr>
+    <tr>
+      <td><b>Backend</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+        <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white">
+        <img src="https://img.shields.io/badge/DJANGO_REST_Framework-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709">
+        <img src="https://img.shields.io/badge/Django--Channels-34A853?style=for-the-badge&logo=django&logoColor=white">
+      </td>
+    </tr>
+    <tr>
+      <td><b>Database</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/AmazonS3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+        <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white">
+      </td>
+    </tr>
+    <tr>
+      <td><b>AI</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+        <img src="https://img.shields.io/badge/DALL·E-1192e8?style=for-the-badge&logo=openai&logoColor=white">
+      </td>
+      </td>
+    </tr>
+    <tr>
+      <td><b>DevOps</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white">
+        <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=black">
+        <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
+      </td>
+    </tr>
+    <tr>
+      <td><b>Monitoring</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+        <img src="https://img.shields.io/badge/cAdvisor-0078D7?style=for-the-badge&logo=google&logoColor=white">
+        <img src="https://img.shields.io/badge/NodeExporter-00695C?style=for-the-badge&logo=google&logoColor=white">
+        <img src="https://img.shields.io/badge/GrafanaLoki-005571?style=for-the-badge&logo=grafana&logoColor=white">
+      </td>
+    </tr>
+    <tr>
+      <td><b>ETC</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+        <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+      </td>
+    </tr>
+  </table>
+</div>
+<br><br>
+
 # 📊Monitoring
 <div align="center">
   <h3 align="left">Prometheus & Grafana</h3>
