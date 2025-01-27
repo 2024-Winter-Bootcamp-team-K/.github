@@ -45,7 +45,7 @@
 
 # 🕺🏻 Demo
 ### Innit Animation
-> AILIBI 게임에 대한 간략한 설명을 담고 있습니다.
+> AILIBI 세계에 들어가는 애니메이션입니다.
 <img align="center" width="1000" alt="Onboarding" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/main.png">
 <img align="center" width="1000" alt="Onboarding" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/login.png">
 
@@ -107,7 +107,7 @@
 
 ### Choose & Result Page
 > 지금까지의 추리를 토대로 범인으로 생각되는 용의자를 지목합니다.<br>
-> 결과에 따라 다른 문장을 말해줍니다.
+> 추리 결과에 따라 다른 문장을 말해줍니다.
 <br>
 <img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/">
 
