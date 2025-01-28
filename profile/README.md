@@ -114,7 +114,7 @@
 ### Ending-Credit
 > 사건이 종료된 이후의 페이지로, 플레이 결과와 크레딧 화면을 볼 수 있습니다.
 <br>
-<img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/">
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/b3b5ce61-0192-443b-b117-06fd9cf4103d">
 <br><br>
 
 ### History
