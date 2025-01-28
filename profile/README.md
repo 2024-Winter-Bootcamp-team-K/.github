@@ -46,9 +46,10 @@
 # 🕺🏻 Demo
 ### Innit Animation
 > AILIBI에 접속하면 가장 먼저 보이는 화면입니다.
+<br>
 <img align="center" width="1000" alt="Onboarding" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/main.png">
 <img align="center" width="1000" alt="Onboarding" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/login.png">
-
+<br>
 
 ### Login/Register & Main Page
 > 이메일 기반 로그인 및 회원가입으로 손쉽게 로그인하실 수 있습니다.<br>
