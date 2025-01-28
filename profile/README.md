@@ -145,7 +145,7 @@
 
 # 🔑 ERD
 <div align="center">
-  <img width="1000" src="[https://github.com/user-attachments/assets/46e9d6f9-33aa-437f-9675-938da4822940](https://github.com/user-attachments/assets/45559fc9-36ef-4f7d-9769-471869cc4ecd)">
+  <img width="1000" src="https://github.com/user-attachments/assets/b15b3f76-c856-40fb-961b-90f7473f1fef">
 </div>
 <br><br>
 
