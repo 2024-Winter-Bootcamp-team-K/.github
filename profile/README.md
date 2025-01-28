@@ -45,7 +45,7 @@
 
 # 🕺🏻 Demo
 ### Innit Animation
-> AILIBI 세계에 들어가는 애니메이션입니다.
+> AILIBI에 접속하면 가장 먼저 보이는 화면입니다.
 <img align="center" width="1000" alt="Onboarding" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/main.png">
 <img align="center" width="1000" alt="Onboarding" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/login.png">
 
