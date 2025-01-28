@@ -47,87 +47,85 @@
 ### Innit Animation
 > AILIBI에 접속하면 가장 먼저 보이는 화면입니다.
 <br>
-<img align="center" width="1000" alt="Onboarding" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/main.png">
-<img align="center" width="1000" alt="Onboarding" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/login.png">
-<br>
+<img align="center" width="1000" alt="Onboarding" src="https://github.com/user-attachments/assets/dd639618-abbe-4ee2-8907-4adfa1d74c6c">
+<br><br>
 
-### Login/Register & Main Page
-> 이메일 기반 로그인 및 회원가입으로 손쉽게 로그인하실 수 있습니다.<br>
+### Login/Register
+> E-mail 기반 로그인 및 회원가입으로 손쉽게 로그인 할 수 있습니다.
+<br>
+<img align="center" width="1000" alt="Login & Sign up" src="https://github.com/user-attachments/assets/1487ef46-1858-4be6-b8a2-51f7d2f5866e">
+<br><br>
+
+### Main
 > 성공적인 로그인 이후 게임 플레이를 위한 메인 페이지로 이동합니다.
 <br>
-<img align="center" width="1000" alt="Login & Sign up" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/mainPage.png">
+<img align="center" width="1000" alt="Login & Sign up" src="https://github.com/user-attachments/assets/b44f2bc8-aada-49f1-a099-9112e6edb310">
+<br><br>
 
+### Make-Scenario
+> 사용자가 탐정 스토리의 주요 배경과 사건을 설정하는 페이지입니다.<br>
+> 사건의 종류, 시간, 장소를 선택할 수 있습니다.
 <br>
+<img align="center" width="1000" alt="Login & Sign up" src="https://github.com/user-attachments/assets/33b7c33a-f3d0-49c6-a216-87081019573f">
+<br><br>
 
-### History Page
-> 플레이어가 이전에 해결했던 사건들을 확인할 수 있는 기록 페이지입니다.<br>
-> 사건별 결과와 세부 정보를 조회할 수 있습니다.
+### Loading
+> 사용자 입력을 기반으로 AI의 시나리오 생성을 기다리는 페이지입니다.<br>
+> 평균적으로 약 1분 내외의 시간이 소요되며, 기다림을 달래 줄 2개의 미니게임(슈팅 게임, 스도쿠)이 준비되어 있습니다.
 <br>
-<img align="center" width="1000" alt="Login & Sign up" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/make.png">
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/a9e54428-3c14-432e-82ba-d698e32e9146">
+<br><br>
 
+### Initial-Statement
+> 용의자들의 초기 진술을 확인할 수 있는 페이지입니다.
 <br>
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/a5430541-5017-43d2-97f9-47ddf8518f11">
+<br><br>
 
-### Scenario Page
-> 플레이어가 탐정 스토리의 주요 배경과 사건을 설정하는 페이지입니다.<br>
-> 사건의 종류,시간,장소 등을 선택할 수 있습니다.
-<br>
-<img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/history.png">
-
-<br>
-
-### Loading & Innit Chat Page
-> 플레이어가 설정한 내용을 토대로 AI가 시나리오, 용의자, 단서를 생성을 기다리는 페이지입니다.<br>
-> 로딩이 끝난 이후에는 AI가 생성한 용의자의 초기 진술을 포함한 기본 정보를 보여줍니다.
-<br>
-<img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/loading.png">
-<img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/minigame.png">
-<br>
-
-### MiniGame Page
-> 게임이 로드되는 동안 플레이어가 즐길 수 있는 간단한 미니게임이 포함된 페이지입니다.
+### Scenario & Evidence
+> 생성된 시나리오와 증거를 탐색할 수 있는 페이지 입니다.<br>
+> 추리 노트를 사용하여, 사용자만의 추리 내용을 작성할 수 있습니다.
 <br>
 <img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/play.png">
-
-<br>
+<br><br>
   
-### Play & Evidence & Suspect Page
-> 플레이어가 사건을 해결하며 진행하는 메인 게임 화면입니다.<br>
-> 증거를 정리하고, 주요 용의자들의 프로필, 알리바이, 행동 기록 등을 확인할 수 있는 페이지입니다.
+### Suspect
+> 용의자 목록을 확인할 수 있는 페이지입니다.
 <br>
 <img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/">
+<br><br>
 
-<br>
-
-### Chat Page
-> AI 기반으로 용의자를 실시간으로 심문하며 단서를 수집하는 페이지입니다.<br>
-> TTS 및 STT로 자유로운 대화가 가능합니다.
-<br>
-<img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/">
-
-<br>
-
-### Choose & Result Page
-> 지금까지의 추리를 토대로 범인으로 생각되는 용의자를 지목합니다.<br>
-> 추리 결과에 따라 다른 문장을 말해줍니다.
+### Interrogation
+> AI와 Websocket을 기반으로 용의자를 심문하는 페이지입니다.<br>
+> STT와 TTS로 보다 몰입도 높은 플레이를 진행할 수 있습니다.
 <br>
 <img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/">
+<br><br>
 
-<br>
-
-### Ending Page
-> 사건이 해결된 이후의 페이지로, 사건의 전개와 해결 과정을 요약합니다.<br>
-> 플레이어의 선택에 따라 달라지는 결과 페이지와 크레딧 화면을 볼 수 있습니다.
+### Choose
+> 앞서 추리한 내용을 기반으로 범인을 지목하는 페이지 입니다.<br>
+> 사용자의 선택에 따라 달라지는 문장이 달라집니다.<br>
+> 성공 — You got it right!<br>
+> 실패 — Are you serious?
 <br>
 <img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/">
+<br><br>
 
-
-
-
+### Ending-Credit
+> 사건이 종료된 이후의 페이지로, 플레이 결과와 크레딧 화면을 볼 수 있습니다.
 <br>
+<img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/">
+<br><br>
+
+### History
+> 사용자가 플레이 했던 내역들을 자세하게 확인할 수 있습니다.
+<br>
+<img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/">
+<br><br>
+
 
 # 📗 API
 <img width="1503" src="https://github.com/user-attachments/assets/bf878657-839e-4c39-9e44-7aa49bfe750e" alt="API 이미지">
-
 
 
 <br><br>
