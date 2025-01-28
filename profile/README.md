@@ -86,7 +86,7 @@
 > 생성된 시나리오와 증거를 탐색할 수 있는 페이지 입니다.<br>
 > 추리 노트를 사용하여, 사용자만의 추리 내용을 작성할 수 있습니다.
 <br>
-<img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/play.png">
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/1fc8ab99-0bd8-42cd-90d6-ba3e287e6fec"><br>
 <br><br>
   
 ### Suspect
