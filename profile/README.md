@@ -92,14 +92,14 @@
 ### Suspect
 > 용의자 목록을 확인할 수 있는 페이지입니다.
 <br>
-<img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/">
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/a1c11bd9-ee42-4f69-9b86-da4e547f7240">
 <br><br>
 
 ### Interrogation
 > AI와 Websocket을 기반으로 용의자를 심문하는 페이지입니다.<br>
 > STT와 TTS로 보다 몰입도 높은 플레이를 진행할 수 있습니다.
 <br>
-<img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/">
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/716ff1ab-8d4d-44ab-b2ed-f13364d42712">
 <br><br>
 
 ### Choose
@@ -108,7 +108,7 @@
 > 성공 — You got it right!<br>
 > 실패 — Are you serious?
 <br>
-<img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/">
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/91a1e7a1-c103-4657-860f-6a7f004573d1">
 <br><br>
 
 ### Ending-Credit
@@ -120,9 +120,10 @@
 ### History
 > 사용자가 플레이 했던 내역들을 자세하게 확인할 수 있습니다.
 <br>
-<img align="center" width="1000" alt="" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/">
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/200c9fb4-e6a9-4ba2-89d7-fe4bcc0b7a84">
 <br><br>
 
+<br>
 
 # 📗 API
 <img width="1503" src="https://github.com/user-attachments/assets/bf878657-839e-4c39-9e44-7aa49bfe750e" alt="API 이미지">
