@@ -145,9 +145,10 @@
 
 # 🔑 ERD
 <div align="center">
-  <img width="1000" src="https://github.com/user-attachments/assets/46e9d6f9-33aa-437f-9675-938da4822940">
+  <img width="1000" src="[https://github.com/user-attachments/assets/46e9d6f9-33aa-437f-9675-938da4822940](https://github.com/user-attachments/assets/45559fc9-36ef-4f7d-9769-471869cc4ecd)">
 </div>
 <br><br>
+
 
 # 💻 Tech Stack
 
