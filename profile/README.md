@@ -2,7 +2,7 @@
 <div align="center"> 
 <h3><b> AI-based detective simulation game </b></h3><br>
 <img width="1503" src="https://raw.githubusercontent.com/ksm0520/practice/main/images/main.png" alt="대표 이미지">
-<h3><b>AI+ALIBI(현재 부재 증명)= AILIBI</b></h3>
+<h3><b>AI+ALIBI(현장 부재 증명)= AILIBI</b></h3>
 <br>
 </div>
 
