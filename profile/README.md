@@ -242,8 +242,8 @@
             <th colspan="2">Django</th>
         </tr>
         <tr>
-            <td><img src="https://github.com/user-attachments/assets/07339efc-48c9-4b9d-b6a1-ea19910eb1db" alt="Django"></td>
-            <td><img src="https://github.com/user-attachments/assets/e4099e6f-7463-4b95-af36-f1690b917073" alt="Django2"></td>
+            <td><img src="https://github.com/user-attachments/assets/dfe25a06-b23d-41b4-a95e-2a7f66769b16" alt="Django"></td>
+            <td><img src="https://github.com/user-attachments/assets/59e892d8-76d5-463f-90c2-a025d8faf23b" alt="Django2"></td>
         </tr>
         <tr>
             <th colspan="2">Celery</th>
