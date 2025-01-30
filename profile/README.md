@@ -580,32 +580,32 @@ npm run dev
 <th>Profile</th>
 <td width="100" align="center">
 <a href="https://github.com/pgc0419">
-<img src="https://github.com/user-attachments/assets/0d75e2eb-cc92-4fc2-814d-768bd86f992b" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/fff119c4-3e90-4dd8-8118-4b177ef702b4" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/Grassyeochi">
-<img src="https://github.com/user-attachments/assets/0d75e2eb-cc92-4fc2-814d-768bd86f992b" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/9224d530-4af5-445f-9bd2-7c3e93f5a8e9" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/parksooyong03">
-<img src="https://github.com/user-attachments/assets/0d75e2eb-cc92-4fc2-814d-768bd86f992b" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/2a707357-62c8-4e35-8725-cdb4fb49fcde" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/ksm0520">
-<img src="https://github.com/user-attachments/assets/0d75e2eb-cc92-4fc2-814d-768bd86f992b" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/23d9b4cd-52a7-406a-8712-ab8e163d333d" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/URsuyeon">
-<img src="https://github.com/user-attachments/assets/0d75e2eb-cc92-4fc2-814d-768bd86f992b" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/daf7e881-fd52-4adc-8852-d8f2e20c530a" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/myungnam1">
-<img src="https://github.com/user-attachments/assets/0d75e2eb-cc92-4fc2-814d-768bd86f992b" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/b39d58f3-f09c-4b58-a307-c8e97b6b098c" width="60" height="60">
 </a>
 </td>
 </tr>
