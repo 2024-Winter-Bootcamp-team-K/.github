@@ -595,7 +595,7 @@ npm run dev
 </td>
 <td width="100" align="center">
 <a href="https://github.com/ksm0520">
-<img src="https://github.com/user-attachments/assets/23d9b4cd-52a7-406a-8712-ab8e163d333d" width="60" height="60">
+<img src="https://github.com/ksm0520.png" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
